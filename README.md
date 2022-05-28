@@ -1,1 +1,1 @@
-# Lamda-shaik
+# Lambda-shaik
